@@ -1,6 +1,3 @@
-### ✅ `README.md`
-
-````markdown
 # Tumor-Detection-with-PaddleSeg: Medical AI for Lung Tumor Detection
 
 **Tumor-Detection-with-PaddleSeg** is a high-precision medical imaging framework designed for the semantic segmentation and classification of lung tumors using radiological scans, including chest X-rays and CT slices. The system integrates deep learning models for dense pixel-wise segmentation (via PaddleSeg) and lesion-level classification (via PaddleClas), optimized for research, clinical aid, and medical data annotation tasks.
