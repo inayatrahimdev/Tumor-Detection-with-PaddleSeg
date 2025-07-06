@@ -33,8 +33,6 @@ The objective oF Tumor-Detection-with-PaddleSeg is to deliver an interpretable, 
 
 ---
 
----
-
 ## Stack
 
 - **Core Framework**: [PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
