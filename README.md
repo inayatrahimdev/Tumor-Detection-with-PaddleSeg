@@ -24,7 +24,7 @@ The objective oF Tumor-Detection-with-PaddleSeg is to deliver an interpretable, 
 ## 🖼️ Visual Demonstration
 
 <p align="center">
-  <img src="./medd.jpeg" alt="Lung Tumor AI Detection - Visual Overview" width="720"/>
+  <img src="./medd.jpg" alt="Lung Tumor AI Detection - Visual Overview" width="720"/>
 </p>
 
 <p align="center">
