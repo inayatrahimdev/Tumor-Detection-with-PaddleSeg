@@ -18,6 +18,10 @@ The objective oF Tumor-Detection-with-PaddleSeg is to deliver an interpretable, 
 - **Cross-Modality Compatibility (X-ray, CT, PNG, DICOM)**
 - **Overlay & Comparison of Annotated and Predicted Masks**
 - **Support for Multiphase CT Volumes**
+  
+<p align="center">
+  <img src="./medd.jpeg" alt="Medical AI Lung Tumor Detection" width="600"/>
+</p>
 
 ---
 
