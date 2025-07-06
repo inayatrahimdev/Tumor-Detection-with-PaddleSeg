@@ -20,7 +20,7 @@ The objective oF Tumor-Detection-with-PaddleSeg is to deliver an interpretable, 
 - **Support for Multiphase CT Volumes**
   
 <p align="center">
-  <img src="./medd.jpeg" alt="Medical AI Lung Tumor Detection" width="600"/>
+  <img src="./medd.jpg" alt="Medical AI Lung Tumor Detection" width="600"/>
 </p>
 
 ---
