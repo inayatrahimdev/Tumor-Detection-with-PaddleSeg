@@ -19,9 +19,19 @@ The objective oF Tumor-Detection-with-PaddleSeg is to deliver an interpretable, 
 - **Overlay & Comparison of Annotated and Predicted Masks**
 - **Support for Multiphase CT Volumes**
   
+---
+
+## 🖼️ Visual Demonstration
+
 <p align="center">
-  <img src="./medd.jpg" alt="Medical AI Lung Tumor Detection" width="600"/>
+  <img src="./medd.jpeg" alt="Lung Tumor AI Detection - Visual Overview" width="720"/>
 </p>
+
+<p align="center">
+  <em>Fig: AI-based Lung Tumor Detection – shows deep learning-assisted visualization on a thoracic scan</em>
+</p>
+
+---
 
 ---
 
